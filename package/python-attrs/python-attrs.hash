@@ -1,3 +1,4 @@
 # md5 from https://pypi.python.org/pypi/attrs/json, sha256 locally computed
 md5	3b7136a570f3ff8a4ff42e7360073f9f  attrs-17.2.0.tar.gz
 sha256	5d4d1b99f94d69338f485984127e4473b3ab9e20f43821b0e546cc3b2302fd11  attrs-17.2.0.tar.gz
+sha256 1c7960ccfd6a005cd9f7ba884e6316b5e430a3f1a6c37c5f87d8b43f83b54ec9  attrs-17.4.0.tar.gz
