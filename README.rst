@@ -12,7 +12,7 @@ you would most likely be better off getting the real buildroot distribution.
 To Merge
 ~~~~~~~~
 
-.. code-block:: bash
+::
   git remote add upstream git://git.buildroot.net/buildroot
   git fetch upstream
-  git merge --allow-unrelated-histories upstream/2018.02.x
+  git merge --allow-unrelated-histories upstream/<release, ie 2018.02.x>
