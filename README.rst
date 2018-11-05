@@ -1,7 +1,7 @@
 ccx-buildroot
 =============
 
-NOTE: We are only using this for legacy releases, we've transitioned to ccxtechnologies/buildroot.
+**NOTE: We are only using this for legacy releases, we've transitioned to ccxtechnologies/buildroot.**
 
 This is a fork of buildroot with a few local updates for CCX Technologies.
 
